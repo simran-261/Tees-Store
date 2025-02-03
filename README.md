@@ -4,7 +4,7 @@
 This is an end to end LLM project based on Google Palm and Langchain. I have builded a system that can talk to MySQL database. 
 User asks questions in a natural language and the system generates answers by converting those questions to an SQL query and
 then executing that query on MySQL database. 
-Singh Tees is a T-shirt store where they maintain their inventory, sales and discounts data in MySQL database. A store manager 
+Tees-Store is a T-shirt store where they maintain their inventory, sales and discounts data in MySQL database. A store manager 
 will may ask questions such as,
 - How many white color Adidas t shirts do we have left in the stock?
 - How much sales our store will generate if we can sell all extra-small size t shirts after applying discounts?
@@ -12,7 +12,7 @@ The system is intelligent enough to generate accurate queries for given question
 
 ## Project Highlights
 
-- Singh Tees is a t shirt store that sells Adidas, Nike, Van Heusen and Levi's t shirts 
+- Tees-Store is a t shirt store that sells Adidas, Nike, Van Heusen and Levi's t shirts 
 - Their inventory, sales and discounts data is stored in a MySQL database
 - I have builded an LLM based question and answer system that will use following,
   - Google Palm LLM
@@ -29,7 +29,7 @@ The system is intelligent enough to generate accurate queries for given question
 1.Clone this repository to your local machine using:
 
 ```bash
-https://github.com/adityasingh31/Singh-Tees-Talk-to-a-Database.git
+[https://github.com/simran-261/Tees-Store](https://github.com/simran-261/Tees-Store)
 ```
 2.Navigate to the project directory:
 
